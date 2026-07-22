@@ -10,7 +10,7 @@ I'm continuously expanding my skills and currently focusing on the Java ecosyste
 
 ## 🚀 Current Focus
 
-* ☕ Java & Spring Boot
+* ☕ Java
 * ⛏️ Minecraft (Paper/Spigot plugin development)
 * 🐳 Docker & containerized applications
 * 🐧 Linux & system administration

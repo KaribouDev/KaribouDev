@@ -60,7 +60,3 @@ I'm continuously expanding my skills and currently focusing on the Java ecosyste
 * Open Source
 * Cybersecurity
 * Performance & System Design
-
----
-
-> *"Build it properly, understand it deeply, improve it continuously."*
